@@ -1,0 +1,6 @@
+{
+  "password": "",
+  "timeout": 300,
+  "method: "chacha20",
+  "fast_open": true
+}
